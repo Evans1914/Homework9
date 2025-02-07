@@ -1,4 +1,4 @@
-# Tech Task Manager  
+# T0-D-List  
 
 ## Project Overview  
 Tech Task Manager is a React-based web application for managing tasks. It allows users to add, delete, and update tasks dynamically. The project demonstrates the use of **React components, props, and useState for state management** while ensuring a responsive UI.  
